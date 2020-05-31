@@ -1,2 +1,2 @@
-# Implementación de inteligencia artificial para juego de otelo/reversi
+# Implementación de inteligencia artificial para juego de ottelo usando processing Java.
 
